@@ -34,7 +34,6 @@ I'm a Computer Science student passionate about every tech.
 ### 🎨 Frontend Development
 <div align="left">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="55" height="55" />
   <img src="https://skillicons.dev/icons?i=nextjs,tailwind,bootstrap,materialui&theme=dark" height="50" />
 </div>
 
