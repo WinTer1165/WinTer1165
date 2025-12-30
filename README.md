@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student+at+NSU+🧑‍🎓;Passionate+about+every+new+tech+❇️;Chess+Player+♟️;Cat+Lover+🐱&center=true&width=380&height=60&color=f75c7e&vCenter=true&size=22" />
 </div>
 
-<div align = "center">
+<div align="center">
   <img alt="Coding" width="600px" src="https://media1.tenor.com/m/JDV9WN1QC3kAAAAd/future-internet.gif">
 </div>
 
@@ -16,69 +16,68 @@ I'm a Computer Science student passionate about every tech.
 - ♟️ Fun fact: **I play chess and love cats! 🐱**
 - 🌱 Currently expanding my knowledge in cloud technologies and DevOps
 
-
 ## 🚀 Tech Stack
 
 ### 💻 Programming Languages
-<div align="left">
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
-  <img src="https://skillicons.dev/icons?i=c,dart,html,css&theme=dark" height="55" />
-  <img src="https://skillicons.dev/icons?i=v" title="Verilog HDL" width="55" height="50" />
-  
-</div>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,python,java,js,c,dart,html,css&theme=dark" />
+  </a>
+</p>
 
 ### 🎨 Frontend Development
-<div align="left">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
-  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,bootstrap,materialui&theme=dark" height="50" />
-</div>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,materialui&theme=dark" />
+  </a>
+</p>
 
 ### ⚙️ Backend Development
-<div align="left">
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="55" height="55" />
-  <img src="https://skillicons.dev/icons?i=nodejs,php&theme=dark" height="50" />
-</div>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,nodejs,php,express&theme=dark" />
+  </a>
+</p>
 
 ### 🗄️ Databases
-<div align="left">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="50" />
-</div>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" />
+  </a>
+</p>
 
 ### ☁️ Cloud & DevOps
-<div align="left">
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
-  <img src="https://skillicons.dev/icons?i=gcp&theme=dark" height="50" />
-</div>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,github,gcp,azure&theme=dark" />
+  </a>
+</p>
 
 ### 🔧 Tools & Technologies
-<div align="left">
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="55" height="55" />
-  <img src="https://skillicons.dev/icons?i=git,linux,flutter,wordpress&theme=dark" height="50" />
-</div>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nginx,git,linux,flutter,wordpress,vscode,figma&theme=dark" />
+  </a>
+</p>
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=WinTer1165&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WinTer1165&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WinTer1165&theme=tokyonight" />
 </p>
 
 <p align="center">
- <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=WinTer1165&theme=tokyonight&hide_border=true&bg_color=0D1117&stroke=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WinTer1165&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WinTer1165&theme=tokyonight&utcOffset=6" />
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinTer1165&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&langs_count=8" />
+  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WinTer1165&theme=tokyonight" />
 </p>
+
 <p align="center">
-  <img width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=WinTer1165&custom_title=Contribution%20Graph&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WinTer1165&custom_title=Contribution%20Graph&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=F85D7F&line=F85D7F&point=FFFFFF" width="95%"/>
 </p>
 
 ## 🎯 Current Focus
