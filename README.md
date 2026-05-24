@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img alt="Coding" width="600px" src="https://media1.tenor.com/m/JDV9WN1QC3kAAAAd/future-internet.gif">
+  <img alt="Let Claude do it" width="480px" src="https://raw.githubusercontent.com/WinTer1165/WinTer1165/main/assets/claude-do-it.gif">
 </div>
 
 ## 🎓 About Me
