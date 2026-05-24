@@ -22,8 +22,6 @@ I'm a Computer Science student at **North South University**, passionate about b
 
 ## 🚀 Tech Stack
 
-> Icons include labels so everyone can follow along!
-
 ### 💻 Programming Languages
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
@@ -90,6 +88,79 @@ I'm a Computer Science student at **North South University**, passionate about b
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+---
+
+## 💡 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🤖 Visual Question Answering
+*Deep learning models that answer questions about mobile app UI screenshots.*
+
+`PyTorch` `TensorFlow` `Hugging Face`
+
+[**→ View Project**](https://github.com/WinTer1165/Visual-Question-Answering-on-Mobile-UI-Screenshots)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔌 Multi-Gas Safety System
+*IoT gas-leak detector with voice alerts & a live web dashboard.*
+
+`STM32` `ESP8266` `C / C++`
+
+[**→ View Project**](https://github.com/WinTer1165/Multi-Gas-Safety-System-with-Voice-Alerts-Web-Dashboard)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 💬 Messenger Desktop Client
+*Secure, unofficial Facebook Messenger desktop app.*
+
+`Electron` `TypeScript` `Node.js`
+
+[**→ View Project**](https://github.com/WinTer1165/Messenger-Desktop-Client-Unofficial)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🩺 Digital Inhaler
+*Affordable connected-health device for asthma patients.*
+
+`IoT` `Open Source` `Healthcare`
+
+[**→ View Project**](https://github.com/WinTer1165/Digital-Inhaler)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎓 NSU LinkUp
+*Research & academic opportunities portal for NSU students and faculty.*
+
+`Web App` `Database` `Full-Stack`
+
+[**→ View Project**](https://github.com/WinTer1165/NSU-Linkup-Faculty-Student-University-Research-Service-Portal)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🏠 Online House Rental
+*Rental marketplace connecting tenants & landlords in Dhaka.*
+
+`Web App` `PHP` `MySQL`
+
+[**→ View Project**](https://github.com/WinTer1165/Online-House-Rental-Web-Application)
+
+</td>
+</tr>
+</table>
 
 ---
 
