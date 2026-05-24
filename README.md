@@ -10,9 +10,9 @@
 
 ## 🎓 About Me
 
-I'm a Computer Science student at **North South University**, passionate about building things across every layer of tech — from microcontrollers to machine learning models.
+I'm a Computer Science student at **North South University**, passionate about building things across every layer of tech, from microcontrollers to machine learning models.
 
-- 🤖 Currently working on **AI/ML** — vision-language models and deep learning
+- 🤖 Currently working on **AI/ML**, building vision-language models and deep learning
 - 🔌 Built an **IoT gas safety system** with STM32, ESP8266 & voice alerts
 - 💻 Developed an **Electron desktop app** (unofficial Messenger client)
 - ♟️ Fun fact: **I play chess and love cats! 🐱**
@@ -188,10 +188,10 @@ I'm a Computer Science student at **North South University**, passionate about b
 
 ## 🎯 Current Focus
 
-- 🤖 **AI/ML** — Vision-language models, transformers (PyTorch, Hugging Face)
-- 🔌 **IoT** — Embedded systems with STM32 & ESP8266
-- 💻 **Desktop Apps** — Electron + TypeScript
-- ☁️ **Cloud & DevOps** — Deepening AWS, Docker, and Kubernetes skills
+- 🤖 **AI/ML**: Vision-language models and transformers (PyTorch, Hugging Face)
+- 🔌 **IoT**: Embedded systems with STM32 & ESP8266
+- 💻 **Desktop Apps**: Electron + TypeScript
+- ☁️ **Cloud & DevOps**: Deepening AWS, Docker, and Kubernetes skills
 
 ---
 
